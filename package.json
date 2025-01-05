@@ -3,11 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build"
-  },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -17,7 +13,6 @@
     "@storybook/addon-interactions": "^8.4.7",
     "@storybook/addon-onboarding": "^8.4.7",
     "@storybook/blocks": "^8.4.7",
-    "@storybook/react": "^8.4.7",
     "@storybook/react-vite": "^8.4.7",
     "@storybook/test": "^8.4.7",
     "css-loader": "^7.1.2",
