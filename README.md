@@ -34,7 +34,7 @@ git clone https://github.com/ArthurDias96/starwars-api-project e acesse a pasta 
 
 ** CSS: Para estilização da página.
 
-** Para acessar o projeto online, clique [aqui](https://starwars-api-project.vercel.app/).
+** Para acessar o projeto online, clique [aqui](https://starwarsapidesafio.netlify.app/).
 
 ## Autor
 
