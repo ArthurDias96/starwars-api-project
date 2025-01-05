@@ -18,7 +18,7 @@ espécies, naves e veículos) de acordo com a URL em que o usuário está.
 
 1. **Clone o repositório**:
 
-# git clone https://github.com/ArthurDias96/starwars-api-project e acesse a pasta do projeto: # cd starwars-api-project
+** git clone https://github.com/ArthurDias96/starwars-api-project e acesse a pasta do projeto: # cd starwars-api-project
 
 2. **Instale as dependências**: # npm install
 
@@ -28,13 +28,13 @@ espécies, naves e veículos) de acordo com a URL em que o usuário está.
 
 ## Tecnologias utilizadas
 
-# React: Framework para construção da interface.
+** React: Framework para construção da interface.
 
-# React Router: Para navegação entre as páginas.
+** React Router: Para navegação entre as páginas.
 
-# CSS: Para estilização da página.
+** CSS: Para estilização da página.
 
-## Para acessar o projeto online, clique [aqui](https://starwars-api-project.vercel.app/).
+** Para acessar o projeto online, clique [aqui](https://starwars-api-project.vercel.app/).
 
 ## Autor
 
