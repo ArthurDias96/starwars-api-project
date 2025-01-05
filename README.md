@@ -18,7 +18,7 @@ espécies, naves e veículos) de acordo com a URL em que o usuário está.
 
 1. **Clone o repositório**:
 
-** git clone https://github.com/ArthurDias96/starwars-api-project e acesse a pasta do projeto: # cd starwars-api-project
+git clone https://github.com/ArthurDias96/starwars-api-project e acesse a pasta do projeto: # cd starwars-api-project
 
 2. **Instale as dependências**: # npm install
 
